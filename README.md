@@ -32,7 +32,7 @@
   <strong>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</strong>
 </div>
 
-<div>
+<div border-color:white>
   <h3>SOs</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/><br>
   <strong>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</strong>
@@ -41,7 +41,7 @@
 <div> 
   <h3>Minhas Redes</h3>
   <a></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green&color=black&labelBorder=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black&labelBorder=white"  target="_blank"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green&color=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black"  target="_blank"/></a> 
   
 </div>
