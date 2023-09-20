@@ -1,6 +1,8 @@
 ##
 <div align="center">
-    <i>Olá! Bem-vindo ao meu Git Hub, onde transformo paixão em código!!! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif " width="50"/></i><br><br>
+    <h2>
+        <i>Olá! Bem-vindo ao meu Git Hub, onde transformo paixão em código!!! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif " width="50"/></i><br><br>
+    </h2>
     <a href="https://github.com/AndersonDutra7"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDutra7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDutra7&layout=compact&langs_count=7&theme=chartreuse-dark"/><br><br>
