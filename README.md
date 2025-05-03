@@ -92,7 +92,7 @@
         </a>
       </td>
       <td align="center" style="padding: 0 40px;">
-        <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="blank">
+        <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
         </a>
       </td>
@@ -105,4 +105,4 @@
   </table>
 </div>
 
-##
+
