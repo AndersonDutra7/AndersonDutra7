@@ -83,22 +83,28 @@
 
 <h2 align="center">🔗 Contatos</h2>
 
-<div align="center" style="margin-top: 40px;">
-  <a href="mailto:andersonrdutra7@gmail.com" target="_blank" style="margin: 0 60px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail"/>
-    <span style="font-size: 18px; color: white;"></span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank" style="margin: 0 60px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-    <span style="font-size: 18px; color: white;"></span>
-  </a>
-
-  <a href="https://www.instagram.com/andersonr.dutra/" target="_blank" style="margin: 0 60px; text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
-    <span style="font-size: 18px; color: white;"></span>
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 40px;">
+        <a href="mailto:andersonrdutra7@gmail.com" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 40px;">
+        <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 40px;">
+        <a href="https://www.instagram.com/andersonr.dutra/" target="_blank">
+          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
