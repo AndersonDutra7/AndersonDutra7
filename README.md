@@ -22,5 +22,14 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green&color=black" target="_blank">
 </a> &nbsp;
 <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black"  target="_blank"/></a> 
+<br>
+<a href="mailto:andersonrdutra7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
+</a>
+
+##
+
+<h3>Desenvolvimento Mobile e Web</h3>
+<p>Sou apaixonado tanto pelo desenvolvimento mobile quanto pelo desenvolvimento web. No mobile, sou adepto do Flutter, criando apps para Android, iOS e até mesmo para Web com uma experiência fluida e dinâmica. Ao mesmo tempo, também me dedico ao universo web, principalmente com React e Django, criando interfaces modernas e interativas. Sempre buscando aprimorar minhas habilidades em ambas as áreas, com foco em construir soluções escaláveis e inovadoras.</p>
 
 ##
