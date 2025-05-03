@@ -3,17 +3,17 @@
     <h2>
         <i>Olá! Bem-vindo ao meu GitHub! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"/></i><br><br>
     </h2>
-</div>
+<!-- </div> -->
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
 <h3 align="center">📱 Desenvolvimento Mobile e Web 🌐</h3>
 
-<p align="center">Sou analista e desenvolvedor de aplicativos móveis e sistemas web. Em <strong>mobile</strong>, trabalho com o desenvolvimento de apps para Android, iOS e Web, garantindo uma experiência eficiente e responsiva. Na <strong>web</strong>, costumo utilizar <strong>Javascript</strong> e <strong>Django</strong> para construir soluções escaláveis e robustas. Busco sempre aprimorar minhas habilidades técnicas e colaborar com equipes para criar aplicações que atendam às necessidades reais do usuário, mantendo a qualidade e a performance.</p>
+<p align="center">Sou analista e desenvolvedor de aplicativos móveis e sistemas web. Em <strong>mobile</strong>, trabalho com o desenvolvimento de apps para Android, garantindo uma experiência eficiente e responsiva utilizando Flutter. Na <strong>web</strong>, costumo utilizar <strong>Django</strong>, <strong>Javascript</strong> e o próprio <strong>Flutter</strong> para construir sistemas escaláveis e robustos. Busco sempre aprimorar minhas habilidades técnicas e colaborar com equipes para criar aplicações que atendam às necessidades reais do usuário, mantendo a qualidade e a performance.</p>
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h3>📊 Conquistas Recentes</h3>
+<h3 align="center">📊 Conquistas Recentes</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonDutra7&theme=chartreuse-dark&hide_border=true" />
@@ -21,7 +21,7 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h3>📈 Status e Principais Linguagens 💻</h3>
+<h3 align="center">📈 Status e Principais Linguagens 💻</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDutra7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -30,7 +30,7 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h3>🛠️ Minhas Tecnologias</h3>
+<h3 align="center">🛠️ Minhas Tecnologias</h3>
 
 |             |             |
 |-------------|-------------|
@@ -42,7 +42,7 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h3>🔗 Minhas Redes</h3>
+<h3 align="center">🔗 Minhas Redes</h3>
 
 <a href="https://www.instagram.com/andersonr.dutra/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank">
@@ -50,7 +50,6 @@
 <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank"/>
 </a> 
-<br>
 <a href="mailto:andersonrdutra7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
 </a>
