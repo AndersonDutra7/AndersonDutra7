@@ -81,8 +81,7 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h2 align="center" ">🔗 Contatos</h2>
-
+<h2 align="center" ">🔗 Contatos</h2><br>
 <div align="center">
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
