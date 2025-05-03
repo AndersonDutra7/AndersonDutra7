@@ -83,7 +83,7 @@
 
 <h2 align="center" style="border: none; padding-bottom: 0;">🔗 Contatos</h2>
 
-<div align="center">
+<div align="center" style="border: none>
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td align="center" style="padding: 0 40px;">
