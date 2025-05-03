@@ -3,7 +3,7 @@
     <h2>
         <i>Olá! Bem-vindo ao meu GitHub! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"/></i><br><br>
     </h2>
-<!-- </div> -->
+</div>
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
@@ -42,16 +42,25 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h3 align="center">🔗 Minhas Redes</h3>
+<h2 align="center">🔗 Contatos</h2>
 
-<a href="https://www.instagram.com/andersonr.dutra/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank">
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank"/>
-</a> 
-<a href="mailto:andersonrdutra7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
-</a>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.instagram.com/andersonr.dutra/" target="_blank" style="margin: 0 20px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"/>
+    <span style="font-size: 18px; color: white;">Instagram</span>
+  </a>
+
+  <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank" style="margin: 0 20px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+    <span style="font-size: 18px; color: white;">LinkedIn</span>
+  </a>
+
+  <a href="mailto:andersonrdutra7@gmail.com" target="_blank" style="margin: 0 20px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail"/>
+    <span style="font-size: 18px; color: white;">Gmail</span>
+  </a>
+</div>
+
+
 
 ##
