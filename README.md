@@ -81,7 +81,7 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h2 align="center" ; padding-bottom: 0;">🔗 Contatos</h2>
+<h2 align="center" ">🔗 Contatos</h2>
 
 <div align="center">
   <table style="border: none; padding: 0; margin: 0;">
@@ -105,4 +105,4 @@
   </table>
 </div>
 
-
+##
