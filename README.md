@@ -81,9 +81,9 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h2 align="center" style="border: none; padding-bottom: 0;">🔗 Contatos</h2>
+<h2 align="center" ; padding-bottom: 0;">🔗 Contatos</h2>
 
-<div align="center" style="border: none>
+<div align="center">
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td align="center" style="padding: 0 40px;">
@@ -92,7 +92,7 @@
         </a>
       </td>
       <td align="center" style="padding: 0 40px;">
-        <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank">
+        <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
         </a>
       </td>
