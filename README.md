@@ -31,7 +31,7 @@
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
 <h3 align="center">🛠️ Minhas Tecnologias</h3>
-
+<div align="center"
 |             |             |
 |-------------|-------------|
 | **Linguagens**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/> |
@@ -39,6 +39,7 @@
 | **Bancos**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50"/> |
 | **IDEs**        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/> |
 | **SOs**         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/> |
+div>
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
@@ -46,18 +47,19 @@
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.instagram.com/andersonr.dutra/" target="_blank" style="margin: 0 20px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"/>
-    <span style="font-size: 18px; color: white;">Instagram</span>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
+    <span style="font-size: 18px; color: white;"></span>
   </a>
+
 
   <a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank" style="margin: 0 20px; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-    <span style="font-size: 18px; color: white;">LinkedIn</span>
+    <span style="font-size: 18px; color: white;"></span>
   </a>
 
   <a href="mailto:andersonrdutra7@gmail.com" target="_blank" style="margin: 0 20px; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail"/>
-    <span style="font-size: 18px; color: white;">Gmail</span>
+    <span style="font-size: 18px; color: white;"></span>
   </a>
 </div>
 
