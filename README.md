@@ -3,15 +3,20 @@
     <h2>
         <i>Olá! Bem-vindo ao meu GitHub! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"/></i><br><br>
     </h2>
-##
+    
 <h3>📱 Desenvolvimento Mobile e Web 🌐</h3>
 <p>Sou analista e desenvolvedor de aplicativos móveis e sistemas web. Em **mobile**, trabalho com o desenvolvimento de apps para Android, iOS e Web, garantindo uma experiência eficiente e responsiva. Na **web**, costumo utilizar **Javascript** e **Django** para construir soluções escaláveis e robustas. Busco sempre aprimorar minhas habilidades técnicas e colaborar com equipes para criar aplicações que atendam às necessidades reais do usuário, mantendo a qualidade e a performance.</p>
-##   
-    <a href="https://github.com/AndersonDutra7"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDutra7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDutra7&layout=compact&langs_count=7&theme=chartreuse-dark"/><br><br>
 
-##
+<h3>📊 Conquistas Recentes</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonDutra7&theme=chartreuse-dark&hide_border=true" />
+</div>
+<p align="center"><i>Amo o que faço, e aqui estão alguns dos meus projetos mais recentes!</i></p>
+
+<h3>📈 Status e Principais Linguagens 💻</h3>
+<a href="https://github.com/AndersonDutra7"></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDutra7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDutra7&layout=compact&langs_count=7&theme=chartreuse-dark"/><br><br>
 
 |             |             |
 |-------------|-------------|
