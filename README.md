@@ -7,9 +7,9 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h3>📱 Desenvolvimento Mobile e Web 🌐</h3>
+<h3 align="center">📱 Desenvolvimento Mobile e Web 🌐</h3>
 
-<p>Sou analista e desenvolvedor de aplicativos móveis e sistemas web. Em <strong>mobile</strong>, trabalho com o desenvolvimento de apps para Android, iOS e Web, garantindo uma experiência eficiente e responsiva. Na <strong>web</strong>, costumo utilizar <strong>Javascript</strong> e <strong>Django</strong> para construir soluções escaláveis e robustas. Busco sempre aprimorar minhas habilidades técnicas e colaborar com equipes para criar aplicações que atendam às necessidades reais do usuário, mantendo a qualidade e a performance.</p>
+<p align="center">Sou analista e desenvolvedor de aplicativos móveis e sistemas web. Em <strong>mobile</strong>, trabalho com o desenvolvimento de apps para Android, iOS e Web, garantindo uma experiência eficiente e responsiva. Na <strong>web</strong>, costumo utilizar <strong>Javascript</strong> e <strong>Django</strong> para construir soluções escaláveis e robustas. Busco sempre aprimorar minhas habilidades técnicas e colaborar com equipes para criar aplicações que atendam às necessidades reais do usuário, mantendo a qualidade e a performance.</p>
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
