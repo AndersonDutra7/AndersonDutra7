@@ -81,9 +81,10 @@
 
 <hr style="border: 1px solid #ccc; margin: 40px 0;" />
 
-<h2 align="center">🔗 Contatos</h2>
+<h2 align="center" style="border: none; padding-bottom: 0;">🔗 Contatos</h2>
+
 <div align="center">
-  <table>
+  <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td align="center" style="padding: 0 40px;">
         <a href="mailto:andersonrdutra7@gmail.com" target="_blank">
@@ -103,8 +104,5 @@
     </tr>
   </table>
 </div>
-
-
-
 
 ##
