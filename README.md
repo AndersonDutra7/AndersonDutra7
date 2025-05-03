@@ -1,7 +1,7 @@
 ##
 <div align="center">
     <h2>
-        <i>Olá! Bem-vindo ao meu GitHub, onde transformo paixão em código!!! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"/></i><br><br>
+        <i>Olá! Bem-vindo ao meu GitHub! <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"/></i><br><br>
     </h2>
     <a href="https://github.com/AndersonDutra7"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonDutra7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -19,9 +19,9 @@
 <h3>Minhas Redes</h3>
 <a></a>
 <a href="https://www.instagram.com/andersonr.dutra/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green&color=black" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank">
 </a> &nbsp;
-<a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black"  target="_blank"/></a> 
+<a href="https://www.linkedin.com/in/anderson-dutra-88b294211/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank"/></a> 
 <br>
 <a href="mailto:andersonrdutra7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
@@ -30,6 +30,15 @@
 ##
 
 <h3>Desenvolvimento Mobile e Web</h3>
-<p>Sou apaixonado tanto pelo desenvolvimento mobile quanto pelo desenvolvimento web. No mobile, sou adepto do Flutter, criando apps para Android, iOS e até mesmo para Web com uma experiência fluida e dinâmica. Ao mesmo tempo, também me dedico ao universo web, principalmente com React e Django, criando interfaces modernas e interativas. Sempre buscando aprimorar minhas habilidades em ambas as áreas, com foco em construir soluções escaláveis e inovadoras.</p>
+<p>Sou apaixonado tanto pelo desenvolvimento mobile quanto pelo desenvolvimento web. No mobile, sou adepto do <b>Flutter</b>, criando apps para Android, iOS e até mesmo para Web com uma experiência fluida e dinâmica. Ao mesmo tempo, também me dedico ao universo web, principalmente com <b>React</b> e <b>Django</b>, criando interfaces modernas e interativas. Sempre buscando aprimorar minhas habilidades em ambas as áreas, com foco em construir soluções escaláveis e inovadoras.</p>
 
 ##
+
+<!-- Animações -->
+<h3>📊 Conquistas Recentes</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonDutra7&theme=chartreuse-dark&hide_border=true" />
+</div>
+<p align="center"><i>Amo o que faço, e aqui estão alguns dos meus projetos mais recentes!</i></p>
+
+## 
